@@ -1,0 +1,4 @@
+E:\Users\Alexandre\Documents\Visual Studio 2017\Projects\14-02-Controle-Windows-ex-1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.csprojResolveAssemblyReference.cache
+E:\Users\Alexandre\Documents\Visual Studio 2017\Projects\14-02-Controle-Windows-ex-1\14-02 Controle Windows ex 1\obj\Debug\_14_02_Controle_Windows_ex_1.Form1.resources
+E:\Users\Alexandre\Documents\Visual Studio 2017\Projects\14-02-Controle-Windows-ex-1\14-02 Controle Windows ex 1\obj\Debug\_14_02_Controle_Windows_ex_1.Properties.Resources.resources
+E:\Users\Alexandre\Documents\Visual Studio 2017\Projects\14-02-Controle-Windows-ex-1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.csproj.GenerateResource.Cache
