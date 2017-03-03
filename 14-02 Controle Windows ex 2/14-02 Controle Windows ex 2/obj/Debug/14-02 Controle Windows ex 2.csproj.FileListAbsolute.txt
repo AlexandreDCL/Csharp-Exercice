@@ -1,0 +1,9 @@
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\bin\Debug\14-02 Controle Windows ex 2.exe.config
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\bin\Debug\14-02 Controle Windows ex 2.exe
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\bin\Debug\14-02 Controle Windows ex 2.pdb
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\obj\Debug\14-02 Controle Windows ex 2.csprojResolveAssemblyReference.cache
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\obj\Debug\_14_02_Controle_Windows_ex_2.Form1.resources
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\obj\Debug\_14_02_Controle_Windows_ex_2.Properties.Resources.resources
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\obj\Debug\14-02 Controle Windows ex 2.csproj.GenerateResource.Cache
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\obj\Debug\14-02 Controle Windows ex 2.exe
+e:\users\alexandre\documents\visual studio 2017\Projects\14-02 Controle Windows ex 2\14-02 Controle Windows ex 2\obj\Debug\14-02 Controle Windows ex 2.pdb
