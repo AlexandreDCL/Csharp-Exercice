@@ -1,0 +1,19 @@
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\bin\Debug\14-02 Controle Windows ex 1.exe.config
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\bin\Debug\14-02 Controle Windows ex 1.exe
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\bin\Debug\14-02 Controle Windows ex 1.pdb
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.csprojResolveAssemblyReference.cache
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\_14_02_Controle_Windows_ex_1.Form1.resources
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\_14_02_Controle_Windows_ex_1.Properties.Resources.resources
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.csproj.GenerateResource.Cache
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.exe
+c:\users\alexandre-pc\documents\visual studio 2015\Projects\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.pdb
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.csprojResolveAssemblyReference.cache
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\_14_02_Controle_Windows_ex_1.Form1.resources
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\_14_02_Controle_Windows_ex_1.Properties.Resources.resources
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.csproj.GenerateResource.Cache
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.exe
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\14-02 Controle Windows ex 1.pdb
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\bin\Debug\14-02 Controle Windows ex 1.exe.config
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\bin\Debug\14-02 Controle Windows ex 1.exe
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\bin\Debug\14-02 Controle Windows ex 1.pdb
+I:\14-02 Controle Windows ex 1\14-02 Controle Windows ex 1\obj\Debug\_14_02_Controle_Windows_ex_1.Form2.resources
